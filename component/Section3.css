@@ -1,0 +1,128 @@
+/* css for We help your dream and circles and proven process and video section (Section3) */ 
+.dream {
+    line-height: 0.9;
+}
+.goal{
+    background-color:#f4edf9;
+    margin-top: 3%;
+
+    
+  
+}
+.circle7{
+    /* display: flex;
+    justify-content: center;
+    justify-content: space-between; */
+    margin-left:3.5%;
+    margin-bottom: 3%;
+}
+@media (max-width:685px){
+    .circle7{
+        display: block;
+    }
+}
+.circle2{
+    margin-left:5%;
+    margin-top:3%;
+}
+.reach{
+    margin-top:3%;
+}
+.big{
+    font-weight: bold;
+}
+
+
+.sky {
+    text-align: center;
+   margin-bottom: 0%;
+   
+}
+.sky1 {
+    text-align: center;
+    margin-top:-0.5%;
+   
+}
+
+.circle1 {
+    display: flex;
+    justify-content: center;
+}
+.process{
+    font-weight: bold;
+    font-size: 15px;
+    
+   
+}
+
+.circle-with-text {
+    background: linear-gradient( dodgerblue,  dodgerblue);
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
+    margin: 5px 20px;
+    font-size: 15px;
+    padding: 15px;
+    display: flex;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+}
+
+.lorem {
+    text-align: justify;
+    text-justify: inter-word;
+    font-style:italic;
+
+}
+
+h5 {
+    margin-bottom: 0%;
+}
+
+.pesudo::first-letter {
+    font-weight: bold;
+    font-size: 20px;
+}
+.button4{
+        width:100%;
+       background-color: dodgerblue;
+       color:white;
+       margin-top:3%;
+       margin-bottom: 10%;
+       padding:3%;
+            }
+            .thank{
+                text-align:end;
+                margin-bottom: 0%;
+            }
+            video{
+                width:100%;
+                height: 220px;
+                border:2px solid white;
+                background-color: gainsboro;
+            }
+            .container2{
+                background-color:  dodgerblue;
+                color:white;
+            }
+            .lorem1{
+                margin-top:13%;
+                margin-bottom: 10%;
+            }
+            .video1
+            {
+                margin-top:12%;
+                margin-bottom: 10%;
+            }
+            .video2{
+                background-color: dodgerblue;
+                color:white; 
+            }
+            @media (max-width:990px){
+                .circle6{
+                   transform: translateX(25%);
+                }
+            }
+          

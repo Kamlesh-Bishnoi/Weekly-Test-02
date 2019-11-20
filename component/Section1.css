@@ -1,0 +1,23 @@
+/* css for three circle Section (Section1) */
+  .threeCircle{
+      background-color: dodgerblue;
+      color:white;
+      text-align: center;
+     
+  }
+  .giveCircle{
+    margin-left:15%;
+    padding:2%
+  }
+  
+   @media (max-width:699px){
+    .giveCircle{
+           transform: translateX(-8%); 
+    }
+  } 
+  @media (min-width:700px) and (max-width:990px){
+    .giveCircle{
+      transform: translateX(-10%)
+    }
+  }
+ 

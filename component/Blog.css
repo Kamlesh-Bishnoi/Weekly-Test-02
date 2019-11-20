@@ -1,0 +1,20 @@
+/* css for blog section  */
+.blog{
+    animation-name:blog;
+    animation-duration: 5s;
+    padding:3%;
+    }
+    @keyframes blog{
+   
+    0% {background-color: ghostwhite;}
+    50%  {background-color:greenyellow;}
+    75%{background-color:brown;}
+    100% {background-color:aqua;}
+    }
+    .post{
+        padding:5%;
+        text-align: center;
+        font-weight: bold;
+        color:aqua;
+    }
+    

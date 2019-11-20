@@ -1,0 +1,20 @@
+/* css for about us  image */
+.AboutImg{
+    width: 100%;
+    height:200px;
+}
+/* css for infostride logo  image */
+.companyLogo{
+    width:70%;
+    height:100px;
+    margin-bottom: 2%;
+}
+.challenges{
+    width:100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size:50px;
+}
+.footerabout{
+    margin-bottom: 2%;
+}
